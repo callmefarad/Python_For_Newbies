@@ -1,0 +1,32 @@
+OPERATORS
+Operators are used to perform operations on variables and values.
+There are 6 major sections of operators in python.
+1. Arithmetic Operators
+    - Addition(+): perform addition on values.
+    - Subtraction(-): performs subtraction on values.
+    - Multiplication(*): performs multiplication on values.
+    - Division(/): performs divisions on values.
+    - Modulus(%): is used to get the remainder value after a divisional operation.
+    - Exponentiation(**): is used to raise a whole number to a particular power.
+    - Floor Division(//): is used to get the integer part of values.
+
+2. Assignment Operators
+    - (=): used for assigning values to variables. [x=5 is same as x=5]
+    - (+=): for performing increment to variable. [s+=5 is same as s=s+5]
+    - (-=): for performing decrement to variable. [s-=5 is same as s=s-5]
+    - (/=): for performing further division to a variable. [s/=5 is same as s=s/5]
+    - (%=): for performing further modulus operation to a variable. [s%=5 is a s=s%5]
+    - (**=): returns the exponential of a variable
+    - (//=): returns the floor of a variable
+
+3. Comparison Operators
+    - Theses operators are used to compare two values and returns a boolean result.
+    - Equal(==): checks for equality [s == y]
+    - Not Equal(!=): check for non equality [s != y]
+    - Greater Than(>): checks for truety or falsy and returns a boolean value [s > y]
+    - Less Than(<): same as greater than.
+    - Greater than or equal to(>=): returns true if any of the condition is true is true.
+    - Less than or equal to(<=): same as above.
+
+
+
