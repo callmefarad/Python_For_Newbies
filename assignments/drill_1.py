@@ -5,6 +5,6 @@ Write a dynamic program that interprets the whole process displaying the balance
 with.
 """
 
-test2 = 'done on a branch'
+test2 = 'this is the new test'
 print(test2)
 
