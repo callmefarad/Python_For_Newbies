@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b1dd7f-f8f7-4cf9-b9d8-73a8a92d862f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assignments/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/drill_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/test2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/BDCL-assignment" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -177,6 +177,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="668" y="299" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1599090829545" />
+    <state x="690" y="223" key="FileChooserDialogImpl" timestamp="1601823372311">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="223" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1601823372311" />
     <state width="1893" height="318" key="GridCell.Tab.0.bottom" timestamp="1601647521523">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
