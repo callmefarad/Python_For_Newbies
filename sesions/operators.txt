@@ -23,7 +23,7 @@ There are 6 major sections of operators in python.
     - Theses operators are used to compare two values and returns a boolean result.
     - Equal(==): checks for equality [s == y]
     - Not Equal(!=): check for non equality [s != y]
-    - Greater Than(>): checks for truety or falsy and returns a boolean value [s > y]
+    - Greater Than(>): checks for trutty or falsy and returns a boolean value [s > y]
     - Less Than(<): same as greater than.
     - Greater than or equal to(>=): returns true if any of the condition is true is true.
     - Less than or equal to(<=): same as above.
